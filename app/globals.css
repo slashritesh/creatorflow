@@ -79,3 +79,10 @@ body{
     @apply bg-background text-foreground;
   }
 }
+
+
+
+.ritesh-200{
+ color: blue;
+ font-size:  3rem;
+}
